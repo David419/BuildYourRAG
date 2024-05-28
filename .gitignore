@@ -1,0 +1,6 @@
+__pycache__/
+/diy_rag/embedding_model/*
+/diy_rag/llm_model/*
+/diy_rag/news_db/
+**/.DS_Store/
+**/.ipynb_checkpoints/
